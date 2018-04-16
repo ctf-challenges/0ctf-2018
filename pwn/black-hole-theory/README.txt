@@ -1,0 +1,2 @@
+By the way, here is a so called return-to-csu (https://www.blackhat.com/docs/asia-18/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR.pdf) method which you may want to know :P 
+(though personally thought this should be well-known in 2018)

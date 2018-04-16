@@ -1,0 +1,8 @@
+Flag path is "C:\flag\flag.txt".
+
+File: reverse/babyvm.zip
+
+Hint: The current directory is writable.
+The current directory integrity level is low.
+Host OS is Windows10 1709.
+C:\flag integrity level is low, C:\flag\flag.txt integrity level is high
